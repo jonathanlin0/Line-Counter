@@ -1,0 +1,1 @@
+copy paste the files you want to analyze into this folder
